@@ -5902,5 +5902,3 @@ const menuselect = function (tabIndex) {
   const tabActive = document.getElementById(`menuselect` + tabIndex);
   tabActive.classList.add(`back`);
 };
-
-console.log(`by`);
